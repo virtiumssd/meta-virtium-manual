@@ -1,8 +1,6 @@
 # meta-virtium
 x86-64 branch
 
-With this tool you can integrate Virtium recipes (vtTestCmd, vtSecureCmd, vtView) into your Wind River Linux platform project.
-
 Prerequisites
 -------------
 
