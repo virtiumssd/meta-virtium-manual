@@ -14,10 +14,6 @@ x86-64 platform
 
     $ git clone -b x86-64 https://github.com/virtiumssd/meta-virtium-manual.git
 
-ARM platform
-
-    $ git clone -b arm https://github.com/virtiumssd/meta-virtium-manual.git
-
 Integration
 -------------
 + Copy meta-virtium directory into "your project path/layers"
